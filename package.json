@@ -1,0 +1,10 @@
+{
+  "name": "dynamicsheets4teach",
+  "version": "1.1.0",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.15.0"
+  }
+}
